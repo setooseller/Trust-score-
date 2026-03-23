@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "product_001",
+    "name": "Surf Excel Easy Wash",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 217,
+    "trustScore": 77.6,
+    "sutharaScore": 69,
+    "sentimentScore": 67,
+    "authenticityScore": 63,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Surf Excel Easy Wash के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Surf Excel Easy Wash as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.2,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.5,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_002",
+    "name": "Rin Detergent Bar",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 254,
+    "trustScore": 74.4,
+    "sutharaScore": 73,
+    "sentimentScore": 70,
+    "authenticityScore": 68,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Rin Detergent Bar के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Rin Detergent Bar as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_003",
+    "name": "Wheel Green Lemon",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 291,
+    "trustScore": 81.6,
+    "sutharaScore": 77,
+    "sentimentScore": 73,
+    "authenticityScore": 73,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Wheel Green Lemon के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Wheel Green Lemon as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.3,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.6,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_004",
+    "name": "Lifebuoy Total Soap",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 328,
+    "trustScore": 78.4,
+    "sutharaScore": 84,
+    "sentimentScore": 76,
+    "authenticityScore": 78,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Lifebuoy Total Soap के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Lifebuoy Total Soap as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.0,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_005",
+    "name": "Lux Jasmine Soap",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 365,
+    "trustScore": 85.6,
+    "sutharaScore": 88,
+    "sentimentScore": 79,
+    "authenticityScore": 83,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Lux Jasmine Soap के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Lux Jasmine Soap as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.4,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.7,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_006",
+    "name": "Dove Cream Beauty Bathing Bar",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.9,
+    "reviewCount": 402,
+    "trustScore": 82.4,
+    "sutharaScore": 92,
+    "sentimentScore": 82,
+    "authenticityScore": 88,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Dove Cream Beauty Bathing Bar के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Dove Cream Beauty Bathing Bar as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.8,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.1,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_007",
+    "name": "Clinic Plus Strong Shampoo",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 439,
+    "trustScore": 82.6,
+    "sutharaScore": 96,
+    "sentimentScore": 85,
+    "authenticityScore": 58,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Clinic Plus Strong Shampoo के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Clinic Plus Strong Shampoo as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_008",
+    "name": "Sunsilk Black Shine Shampoo",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 476,
+    "trustScore": 79.4,
+    "sutharaScore": 70,
+    "sentimentScore": 88,
+    "authenticityScore": 63,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Sunsilk Black Shine Shampoo के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Sunsilk Black Shine Shampoo as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.9,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.2,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_009",
+    "name": "Tresemme Keratin Smooth",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 513,
+    "trustScore": 86.6,
+    "sutharaScore": 74,
+    "sentimentScore": 91,
+    "authenticityScore": 68,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Tresemme Keratin Smooth के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Tresemme Keratin Smooth as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_010",
+    "name": "Horlicks Classic Malt",
+    "brand": "Hindustan Unilever",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 550,
+    "trustScore": 77.8,
+    "sutharaScore": 78,
+    "sentimentScore": 66,
+    "authenticityScore": 73,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Horlicks Classic Malt के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Horlicks Classic Malt as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.0,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.3,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_011",
+    "name": "Bru Instant Coffee",
+    "brand": "Hindustan Unilever",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 587,
+    "trustScore": 85.0,
+    "sutharaScore": 82,
+    "sentimentScore": 69,
+    "authenticityScore": 78,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Bru Instant Coffee के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Bru Instant Coffee as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_012",
+    "name": "Kissan Fresh Tomato Ketchup",
+    "brand": "Hindustan Unilever",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 624,
+    "trustScore": 81.8,
+    "sutharaScore": 86,
+    "sentimentScore": 72,
+    "authenticityScore": 83,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Kissan Fresh Tomato Ketchup के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Kissan Fresh Tomato Ketchup as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.1,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.4,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_013",
+    "name": "Knorr Tomato Soup",
+    "brand": "Hindustan Unilever",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.6,
+    "reviewCount": 661,
+    "trustScore": 78.6,
+    "sutharaScore": 90,
+    "sentimentScore": 75,
+    "authenticityScore": 88,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Knorr Tomato Soup के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Knorr Tomato Soup as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_014",
+    "name": "Ponds Bright Beauty Facewash",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 698,
+    "trustScore": 78.8,
+    "sutharaScore": 94,
+    "sentimentScore": 78,
+    "authenticityScore": 58,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Ponds Bright Beauty Facewash के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Ponds Bright Beauty Facewash as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.2,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.5,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_015",
+    "name": "Vaseline Deep Moisture Lotion",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 735,
+    "trustScore": 75.6,
+    "sutharaScore": 68,
+    "sentimentScore": 81,
+    "authenticityScore": 63,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Vaseline Deep Moisture Lotion के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Vaseline Deep Moisture Lotion as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_016",
+    "name": "Domex Disinfectant Cleaner",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 772,
+    "trustScore": 82.8,
+    "sutharaScore": 69,
+    "sentimentScore": 84,
+    "authenticityScore": 68,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Domex Disinfectant Cleaner के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Domex Disinfectant Cleaner as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.3,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.6,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_017",
+    "name": "Comfort Fabric Conditioner",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 809,
+    "trustScore": 79.6,
+    "sutharaScore": 73,
+    "sentimentScore": 87,
+    "authenticityScore": 73,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Comfort Fabric Conditioner के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Comfort Fabric Conditioner as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.0,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_018",
+    "name": "Pepsodent Germicheck Toothpaste",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 846,
+    "trustScore": 86.8,
+    "sutharaScore": 80,
+    "sentimentScore": 90,
+    "authenticityScore": 78,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Pepsodent Germicheck Toothpaste के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Pepsodent Germicheck Toothpaste as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.4,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.7,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_019",
+    "name": "Closeup Ever Fresh Gel",
+    "brand": "Hindustan Unilever",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.9,
+    "reviewCount": 883,
+    "trustScore": 78.0,
+    "sutharaScore": 84,
+    "sentimentScore": 65,
+    "authenticityScore": 83,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Closeup Ever Fresh Gel के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Closeup Ever Fresh Gel as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.8,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.1,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_020",
+    "name": "Pureit Water Purifier Consumable",
+    "brand": "Hindustan Unilever",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 920,
+    "trustScore": 85.2,
+    "sutharaScore": 85,
+    "sentimentScore": 68,
+    "authenticityScore": 88,
+    "brandReputationScore": 86,
+    "aiSummaryHi": "Pureit Water Purifier Consumable के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Pureit Water Purifier Consumable as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_021",
+    "name": "Aashirvaad Whole Wheat Atta",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 957,
+    "trustScore": 74.4,
+    "sutharaScore": 92,
+    "sentimentScore": 71,
+    "authenticityScore": 58,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Aashirvaad Whole Wheat Atta के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Aashirvaad Whole Wheat Atta as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.9,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.2,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_022",
+    "name": "Aashirvaad Multigrain Atta",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 994,
+    "trustScore": 81.6,
+    "sutharaScore": 96,
+    "sentimentScore": 74,
+    "authenticityScore": 63,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Aashirvaad Multigrain Atta के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Aashirvaad Multigrain Atta as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_023",
+    "name": "Sunfeast Marie Light",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 1031,
+    "trustScore": 78.4,
+    "sutharaScore": 70,
+    "sentimentScore": 77,
+    "authenticityScore": 68,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Sunfeast Marie Light के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Sunfeast Marie Light as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.0,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.3,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_024",
+    "name": "Sunfeast Dark Fantasy Choco Fills",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 1068,
+    "trustScore": 85.6,
+    "sutharaScore": 74,
+    "sentimentScore": 80,
+    "authenticityScore": 73,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Sunfeast Dark Fantasy Choco Fills के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Sunfeast Dark Fantasy Choco Fills as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_025",
+    "name": "Bingo Mad Angles",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 1105,
+    "trustScore": 82.4,
+    "sutharaScore": 78,
+    "sentimentScore": 83,
+    "authenticityScore": 78,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Bingo Mad Angles के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Bingo Mad Angles as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.1,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.4,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_026",
+    "name": "YiPPee Magic Masala Noodles",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.6,
+    "reviewCount": 1142,
+    "trustScore": 79.2,
+    "sutharaScore": 82,
+    "sentimentScore": 86,
+    "authenticityScore": 83,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "YiPPee Magic Masala Noodles के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view YiPPee Magic Masala Noodles as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_027",
+    "name": "Candyman Toffichoo",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 1179,
+    "trustScore": 86.4,
+    "sutharaScore": 86,
+    "sentimentScore": 89,
+    "authenticityScore": 88,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Candyman Toffichoo के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Candyman Toffichoo as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.2,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.5,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_028",
+    "name": "Mangaldeep Agarbatti",
+    "brand": "ITC",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 1216,
+    "trustScore": 70.6,
+    "sutharaScore": 87,
+    "sentimentScore": 64,
+    "authenticityScore": 58,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Mangaldeep Agarbatti के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Mangaldeep Agarbatti as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_029",
+    "name": "Fiama Di Wills Gel Bar",
+    "brand": "ITC",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 1253,
+    "trustScore": 77.8,
+    "sutharaScore": 94,
+    "sentimentScore": 67,
+    "authenticityScore": 63,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Fiama Di Wills Gel Bar के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Fiama Di Wills Gel Bar as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.3,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.6,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_030",
+    "name": "Savlon Handwash",
+    "brand": "ITC",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 1290,
+    "trustScore": 74.6,
+    "sutharaScore": 68,
+    "sentimentScore": 70,
+    "authenticityScore": 68,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Savlon Handwash के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Savlon Handwash as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.0,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_031",
+    "name": "Savlon Surface Disinfectant",
+    "brand": "ITC",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 1327,
+    "trustScore": 81.8,
+    "sutharaScore": 69,
+    "sentimentScore": 73,
+    "authenticityScore": 73,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Savlon Surface Disinfectant के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Savlon Surface Disinfectant as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.4,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.7,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_032",
+    "name": "Charmis Deep Radiance Face Serum",
+    "brand": "ITC",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.9,
+    "reviewCount": 1364,
+    "trustScore": 78.6,
+    "sutharaScore": 76,
+    "sentimentScore": 76,
+    "authenticityScore": 78,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Charmis Deep Radiance Face Serum के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Charmis Deep Radiance Face Serum as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.8,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.1,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_033",
+    "name": "Nimyle Floor Cleaner",
+    "brand": "ITC",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 1401,
+    "trustScore": 85.8,
+    "sutharaScore": 77,
+    "sentimentScore": 79,
+    "authenticityScore": 83,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Nimyle Floor Cleaner के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nimyle Floor Cleaner as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_034",
+    "name": "Classmate Notebooks",
+    "brand": "ITC",
+    "category": "Household",
+    "features": [
+      "Household utility focus",
+      "High-frequency purchase cycle",
+      "Cross-platform customer reviews",
+      "Retail and e-commerce coverage"
+    ],
+    "qualityIndicators": [
+      "Cleaning effectiveness mentioned",
+      "Repeat purchase behavior",
+      "Strong shelf availability",
+      "Practical packaging"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583947582886-f40ec95dd752?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 1438,
+    "trustScore": 82.6,
+    "sutharaScore": 81,
+    "sentimentScore": 82,
+    "authenticityScore": 88,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Classmate Notebooks के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Classmate Notebooks as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Works effectively for common needs",
+      "Easy to find online and offline",
+      "Generally considered dependable"
+    ],
+    "cons": [
+      "Fragrance can feel strong for some homes",
+      "Value perception varies by pack size",
+      "Power users want refill options"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.9,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.2,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_035",
+    "name": "Aashirvaad Svasti Ghee",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 1475,
+    "trustScore": 82.8,
+    "sutharaScore": 88,
+    "sentimentScore": 85,
+    "authenticityScore": 58,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Aashirvaad Svasti Ghee के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Aashirvaad Svasti Ghee as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_036",
+    "name": "Farmland Potatoes Chips",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 1512,
+    "trustScore": 79.6,
+    "sutharaScore": 92,
+    "sentimentScore": 88,
+    "authenticityScore": 63,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Farmland Potatoes Chips के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Farmland Potatoes Chips as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.0,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.3,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_037",
+    "name": "B Natural Mixed Fruit Juice",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 1549,
+    "trustScore": 86.8,
+    "sutharaScore": 96,
+    "sentimentScore": 91,
+    "authenticityScore": 68,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "B Natural Mixed Fruit Juice के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view B Natural Mixed Fruit Juice as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_038",
+    "name": "Sunbean Gourmet Coffee",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 1586,
+    "trustScore": 78.0,
+    "sutharaScore": 70,
+    "sentimentScore": 66,
+    "authenticityScore": 73,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Sunbean Gourmet Coffee के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Sunbean Gourmet Coffee as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.1,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.4,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_039",
+    "name": "Master Chef Frozen Veg Snacks",
+    "brand": "ITC",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.6,
+    "reviewCount": 1623,
+    "trustScore": 74.8,
+    "sutharaScore": 74,
+    "sentimentScore": 69,
+    "authenticityScore": 78,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Master Chef Frozen Veg Snacks के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Master Chef Frozen Veg Snacks as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_040",
+    "name": "Engage Pocket Perfume",
+    "brand": "ITC",
+    "category": "Personal Care",
+    "features": [
+      "Mass premium positioning",
+      "Visible repeat buyers",
+      "Public review traction",
+      "Popular supermarket presence"
+    ],
+    "qualityIndicators": [
+      "Dermatologically familiar positioning",
+      "Packaging quality rated well",
+      "Daily-use suitability",
+      "Easy retail availability"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1619451689707-96961a06f90c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 1660,
+    "trustScore": 82.0,
+    "sutharaScore": 78,
+    "sentimentScore": 72,
+    "authenticityScore": 83,
+    "brandReputationScore": 83,
+    "aiSummaryHi": "Engage Pocket Perfume के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Engage Pocket Perfume as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Pleasant user experience",
+      "Reliable packaging and convenience",
+      "Suitable for routine usage"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Results can vary by skin or hair type",
+      "Some users want more natural ingredients"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.2,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.5,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Safe for routine use based on public feedback; patch test or usage guidance recommended",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_041",
+    "name": "Maggi 2-Minute Noodles",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 1697,
+    "trustScore": 78.6,
+    "sutharaScore": 82,
+    "sentimentScore": 75,
+    "authenticityScore": 88,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Maggi 2-Minute Noodles के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Maggi 2-Minute Noodles as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_042",
+    "name": "Maggi Masala-ae-Magic",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 1734,
+    "trustScore": 78.8,
+    "sutharaScore": 86,
+    "sentimentScore": 78,
+    "authenticityScore": 58,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Maggi Masala-ae-Magic के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Maggi Masala-ae-Magic as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.3,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.6,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_043",
+    "name": "Nescafe Classic",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 1771,
+    "trustScore": 75.6,
+    "sutharaScore": 90,
+    "sentimentScore": 81,
+    "authenticityScore": 63,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nescafe Classic के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nescafe Classic as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.0,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_044",
+    "name": "Nescafe Sunrise",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 1808,
+    "trustScore": 82.8,
+    "sutharaScore": 94,
+    "sentimentScore": 84,
+    "authenticityScore": 68,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nescafe Sunrise के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nescafe Sunrise as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.4,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.7,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_045",
+    "name": "KitKat 4 Finger",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.9,
+    "reviewCount": 1845,
+    "trustScore": 79.6,
+    "sutharaScore": 68,
+    "sentimentScore": 87,
+    "authenticityScore": 73,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "KitKat 4 Finger के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view KitKat 4 Finger as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.8,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.1,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_046",
+    "name": "Munch Max",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 1882,
+    "trustScore": 86.8,
+    "sutharaScore": 72,
+    "sentimentScore": 90,
+    "authenticityScore": 78,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Munch Max के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Munch Max as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_047",
+    "name": "Everyday Dairy Whitener",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 1919,
+    "trustScore": 78.0,
+    "sutharaScore": 76,
+    "sentimentScore": 65,
+    "authenticityScore": 83,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Everyday Dairy Whitener के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Everyday Dairy Whitener as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.9,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.2,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_048",
+    "name": "Milkmaid Condensed Milk",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 1956,
+    "trustScore": 85.2,
+    "sutharaScore": 80,
+    "sentimentScore": 68,
+    "authenticityScore": 88,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Milkmaid Condensed Milk के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Milkmaid Condensed Milk as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_049",
+    "name": "Cerelac Wheat Apple",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 1993,
+    "trustScore": 75.0,
+    "sutharaScore": 84,
+    "sentimentScore": 71,
+    "authenticityScore": 58,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Cerelac Wheat Apple के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Cerelac Wheat Apple as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.0,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.3,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_050",
+    "name": "Lactogen 1 Infant Formula",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 2030,
+    "trustScore": 82.2,
+    "sutharaScore": 88,
+    "sentimentScore": 74,
+    "authenticityScore": 63,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Lactogen 1 Infant Formula के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Lactogen 1 Infant Formula as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_051",
+    "name": "Nangrow Nutritious Milk Drink",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 2067,
+    "trustScore": 79.0,
+    "sutharaScore": 92,
+    "sentimentScore": 77,
+    "authenticityScore": 68,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nangrow Nutritious Milk Drink के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nangrow Nutritious Milk Drink as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.2,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.1,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.4,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_052",
+    "name": "Nestea Lemon Ice Tea",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.6,
+    "reviewCount": 2104,
+    "trustScore": 75.8,
+    "sutharaScore": 96,
+    "sentimentScore": 80,
+    "authenticityScore": 73,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nestea Lemon Ice Tea के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nestea Lemon Ice Tea as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_053",
+    "name": "Nestle A+ Grekyo Curd",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 2141,
+    "trustScore": 83.0,
+    "sutharaScore": 70,
+    "sentimentScore": 83,
+    "authenticityScore": 78,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nestle A+ Grekyo Curd के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nestle A+ Grekyo Curd as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.3,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.2,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.5,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_054",
+    "name": "Nestle a+ Slim Milk",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 2178,
+    "trustScore": 79.8,
+    "sutharaScore": 74,
+    "sentimentScore": 86,
+    "authenticityScore": 83,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nestle a+ Slim Milk के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nestle a+ Slim Milk as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.7,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.6,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 3.9,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_055",
+    "name": "Ceregrow Kids Cereal",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 2215,
+    "trustScore": 87.0,
+    "sutharaScore": 78,
+    "sentimentScore": 89,
+    "authenticityScore": 88,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Ceregrow Kids Cereal के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Ceregrow Kids Cereal as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.4,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.3,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.6,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_056",
+    "name": "Milo Activ-Go",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 2252,
+    "trustScore": 71.2,
+    "sutharaScore": 82,
+    "sentimentScore": 64,
+    "authenticityScore": 58,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Milo Activ-Go के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Milo Activ-Go as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.8,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.7,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.0,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  },
+  {
+    "id": "product_057",
+    "name": "Bar-One Chocolate",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2289,
+    "trustScore": 78.4,
+    "sutharaScore": 86,
+    "sentimentScore": 67,
+    "authenticityScore": 63,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Bar-One Chocolate के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Bar-One Chocolate as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "medium",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.5,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.4,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.7,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_058",
+    "name": "KitKat Dessert Delight",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 3.9,
+    "reviewCount": 2326,
+    "trustScore": 75.2,
+    "sutharaScore": 90,
+    "sentimentScore": 70,
+    "authenticityScore": 68,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "KitKat Dessert Delight के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view KitKat Dessert Delight as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 3.9,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.8,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.1,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_059",
+    "name": "Maggi Rich Tomato Ketchup",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 2363,
+    "trustScore": 82.4,
+    "sutharaScore": 94,
+    "sentimentScore": 73,
+    "authenticityScore": 73,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Maggi Rich Tomato Ketchup के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Maggi Rich Tomato Ketchup as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.7,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.6,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 4.5,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.8,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": false
+  },
+  {
+    "id": "product_060",
+    "name": "Nestle Milk Chocolate",
+    "brand": "Nestle India",
+    "category": "Food",
+    "features": [
+      "Popular in urban and tier-2 markets",
+      "Public marketplace coverage",
+      "Multiple pack sizes",
+      "High review discoverability"
+    ],
+    "qualityIndicators": [
+      "FSSAI labeling visible",
+      "Widely available across India",
+      "Consistent taste feedback",
+      "Value for money packs"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 2400,
+    "trustScore": 79.2,
+    "sutharaScore": 68,
+    "sentimentScore": 76,
+    "authenticityScore": 78,
+    "brandReputationScore": 82,
+    "aiSummaryHi": "Nestle Milk Chocolate के लिए ज्यादातर ग्राहक गुणवत्ता, उपलब्धता और रोज़मर्रा उपयोग को सकारात्मक मानते हैं। कुछ समीक्षाओं में कीमत या सामग्री को लेकर सावधानी की सलाह दी गई है।",
+    "aiSummaryEn": "Customers generally view Nestle Milk Chocolate as reliable for daily use, with positive signals around quality and availability. Some reviewers still flag price or ingredient concerns.",
+    "pros": [
+      "Taste is liked by many users",
+      "Strong availability in local markets",
+      "Price-to-value ratio is positive"
+    ],
+    "cons": [
+      "Some users mention sugar or salt concerns",
+      "Regional taste preference varies",
+      "Premium packs can feel expensive"
+    ],
+    "fakeReviewRisk": "low",
+    "platformRatings": {
+      "Google Reviews": {
+        "rating": 4.1,
+        "weight": 0.3
+      },
+      "Amazon": {
+        "rating": 4.0,
+        "weight": 0.3
+      },
+      "Flipkart": {
+        "rating": 3.9,
+        "weight": 0.2
+      },
+      "YouTube Comments": {
+        "rating": 4.2,
+        "weight": 0.2
+      }
+    },
+    "safeIndicator": "Moderate ingredient confidence • Verify label for allergens",
+    "affiliateUrl": "https://www.amazon.in/",
+    "trending": true
+  }
+]
